@@ -1,6 +1,6 @@
-Flask
-Flask-Cors
+flask
+flask-cors
 qiskit
 qiskit-aer
-numpy
 matplotlib
+gunicorn
