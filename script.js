@@ -1,5 +1,5 @@
 // Flask backend URL
-const API_URL = "https://bb84-qkd-simulator-e69z.onrender.com";
+const API_URL = "https://bb84-qkd-simulator-e69z.onrender.com/simulate";
 const simulateButton = document.getElementById("simulateButton");
 const numBits = document.getElementById("numBits");
 const noise = document.getElementById("noise");
